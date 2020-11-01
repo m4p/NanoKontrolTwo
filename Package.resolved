@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CombineMIDI",
+        "repositoryURL": "https://github.com/mkj-is/CombineMIDI.git",
+        "state": {
+          "branch": null,
+          "revision": "ebb18ac55a9a22e916d7ff645ea7a9f867701f2a",
+          "version": "0.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
